@@ -25,4 +25,4 @@ I grew up in Czechia, but one day I would like to live abroad. I like boxing, de
 ---
 
 ### 📫 Contact Me
-Email: your.email@example.com
+Email: onndrejmalik@gmail.com
