@@ -1,4 +1,4 @@
-## I'm Andy�
+## Hello, I'm Andy
 
 **Student | Frontend Web Developer | Future Data Analyst**
 
