@@ -23,10 +23,5 @@ I grew up in Czechia, but one day I would like to live abroad. I like boxing, de
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ---
-### My Roadmap
-
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/68ff370432ad652bc8f1657b?variant=dark&roadmaps=data-analyst%2Cpython%2Csql" alt="roadmap.sh"/></a>
-
----
 ### 📫 Contact Me
 Email: onndrejmalik@gmail.com
