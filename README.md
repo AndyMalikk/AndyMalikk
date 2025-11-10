@@ -25,6 +25,3 @@ I grew up in Czechia, but one day I would like to live abroad. I like boxing, de
 ---
 ### 📫 Contact Me
 Email: onndrejmalik@gmail.com
-<div class="badge-base LI-profile-badge" data-locale="cs_CZ" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ondřej-malík-7b7855273" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cz.linkedin.com/in/ond%C5%99ej-mal%C3%ADk-7b7855273?trk=profile-badge">Ondřej Malík</a></div>
-              
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
